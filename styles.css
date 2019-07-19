@@ -76,3 +76,26 @@
 		padding-bottom: 100px;
 
 	}
+	#row{
+		padding-bottom: 20px;
+		padding-top: 20px;
+	}
+	#btn{
+		color: floralwhite;
+		margin-top: 40px;
+
+	}
+	#date{
+		margin-right: 20px;
+	}
+	#time{
+		padding-left: 50px;
+	}
+	#btn2{
+		margin-bottom: 20px;
+		color: floralwhite;
+
+	}
+	#reserve{
+		margin-bottom: 50px;
+	}
