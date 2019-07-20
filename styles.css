@@ -70,6 +70,7 @@
 	.footer{
 		padding-top: 50px;
 		background: #D1C4E9;
+
 	}
 
 	#data{
@@ -93,15 +94,7 @@
 	#time{
 		padding-left: 50px;
 	}
-	#btn2{
-		margin-bottom: 20px;
-		color: floralwhite;
-		height: 30px;
-		width: 100px;
-		border-radius: 7px;
-		margin-right: 650px;
 
-	}
 	#reserve{
 		margin-bottom: 50px;
 	}
@@ -132,4 +125,19 @@
 }
 #cars{
 	padding-top: 50px;
+}
+.modal-title{
+	color: #000;
+}
+#type{
+	
+	color: floralwhite;
+
+}
+#cancel,#submit{
+
+	width: 100px;
+	height: 35px;
+	
+
 }
