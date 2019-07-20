@@ -127,3 +127,9 @@
     left: 0;
     min-height: 300px;
 }
+#slide{
+	padding-bottom: 50px;
+}
+#cars{
+	padding-top: 50px;
+}
